@@ -25,5 +25,9 @@ class CadastroViewController: UIViewController {
         self.dismiss(animated: true, completion: nil)
     }
     
+    /*@IBAction func exit(_ sender: Any) {
+     
+    }*/
+    
     
 }
